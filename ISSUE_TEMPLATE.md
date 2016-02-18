@@ -3,7 +3,11 @@
 
 
 
+##### Complete output when running fastlane, including the stack trace and command used
 
+```
+INSERT OUTPUT HERE
+```
 
 ### Configuration files
 
